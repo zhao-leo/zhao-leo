@@ -1,10 +1,30 @@
-## Hi there 👋
+# Hi there 👋
+
+## 蒟蒻也要有自己的idea呀~
+
+### TODO_LIST
+- [ ] 做一个`CMS`给我的`Hugo`，即开即得~~应该~~会让咱更新的勤快一点吧？
+
+- [ ] 给`iverilog`工具做一个项目管理工具，进度姑且可以称作`0.5%`。反正就是有BUG啦！而且还得自己改`ivlogproject.toml`，不是很满意，先不拿出来丢脸了……
+
+- [ ] Hook BYR的安卓apk，不给申请只能用app的`Oauth`了，哼！
+
+- [ ] 整理`developers.byr.cn`的文档(已经从web.archive.org下载了)
+
+### 完成的？🤔
+
+- [x] ~~某~~社区的后台管理页面，负责的前端，用`python`写的，使用了`nicegui`这个包，不算特别满意。反正我和程序有一个能跑就可以咯~，有机会试试重写吧……
+
+- [x] 和 @Zmy0312bry 合作的`Archive`，没啥技术，后续做个前端……
+
+Ciallo～(∠・ω< )⌒★
+
+```
+马上就要考试啦！你在干嘛！
+```
 
 <!--
 **zhao-leo/zhao-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
