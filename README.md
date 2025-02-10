@@ -19,9 +19,6 @@
 
 Ciallo～(∠・ω< )⌒★
 
-```
-考完咯！休息！
-```
 
 <!--
 **zhao-leo/zhao-leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
