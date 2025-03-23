@@ -9,7 +9,7 @@
 |`idle`|`iverilog-tool`|类似`cargo`的`Verilog/SystemVerilog`项目管理工具|~咕咕咕~<有生之年>|
 |`not started yet`|`bbs.byr.cn`的`api` Hook|Hook北邮人论坛的网页api，并进行相关封装|0%<还没开始>|
 
-### 完成的？🤔
+### 完成的项目🤔
 |任务情况|任务名称|任务简介|任务进度|
 |-------|--------|-------|-------|
 |`end`|后台管理系统|~~某~~社区的后台管理页面，负责的前端，用`python`写的，使用了`nicegui`这个包|100%|
@@ -17,6 +17,10 @@
 |`end`|Rust的yolo模型推理|工创赛衍生产品，还添加了一些额外的功能|100%|
 |`updating`|`BUPT_SICE_Archive`|和 `Zmy0312bry` 合作的作业`Archive`|短期不会ending|
 
+### 完成的作业😄
+|作业名称|任务简介|
+|-------|--------|
+|数电实验-水位监测|Verilog实现的水位检测系统|
 
 ### Ciallo～(∠・ω< )⌒★
 
