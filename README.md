@@ -17,6 +17,13 @@
 |`end`|Rust的yolo模型推理|工创赛衍生产品，还添加了一些额外的功能|100%|
 |`updating`|`BUPT_SICE_Archive`|和 `Zmy0312bry` 合作的作业`Archive`|短期不会ending|
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhao-leo" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-leo&hide=html,xslt,javascript" />
+</a>
+
 ### 完成的作业😄
 |作业名称|任务简介|
 |-------|--------|
