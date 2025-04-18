@@ -15,14 +15,12 @@
 |`end`|后台管理系统|~~某~~社区的后台管理页面，负责的前端，用`python`写的，使用了`nicegui`这个包|100%|
 |`end`|工创赛垃圾分类|如题，就是一个智能垃圾桶，使用Tauri框架|100%|
 |`end`|Rust的yolo模型推理|工创赛衍生产品，还添加了一些额外的功能|100%|
+|`end`|后端服务器|上述社区的Django服务器，经过重构|100%|
 |`updating`|`BUPT_SICE_Archive`|和 `Zmy0312bry` 合作的作业`Archive`|短期不会ending|
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhao-leo" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-leo&hide=html,xslt,javascript&layout=compact" />
-</a>
+![commit-status](https://github-readme-stats.vercel.app/api?username=zhao-leo&include_all_commits=true&show_icons=true)
+
+![language("https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-leo&hide=html,xslt,javascript&layout=compact)
 
 ### 完成的作业😄
 |作业名称|任务简介|
