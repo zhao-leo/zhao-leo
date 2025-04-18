@@ -20,7 +20,7 @@
 
 ![commit-status](https://github-readme-stats.vercel.app/api?username=zhao-leo&include_all_commits=true&show_icons=true)
 
-![language("https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-leo&hide=html,xslt,javascript&layout=compact)
+![language]("https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-leo&hide=html,xslt,javascript&layout=compact)
 
 ### 完成的作业😄
 |作业名称|任务简介|
