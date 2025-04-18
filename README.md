@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhao-leo" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-leo&hide=html,xslt,javascript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhao-leo&hide=html,xslt,javascript&layout=compact" />
 </a>
 
 ### 完成的作业😄
