@@ -28,6 +28,7 @@
 
 ### 停工
 |idea|reason|
+|-------|-------|
 |`iverilog-tool`|已经发现了相对成熟的项目[Digital-IDE](http://nc-ai.cn/)|
 ### Ciallo～(∠・ω< )⌒★
 
