@@ -2,6 +2,10 @@
 
 ## 蒟蒻也要有自己的idea呀~
 
+也是用上Linux了(雾)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/-Fedora%20Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white">
+
 ### TODO_LIST
 |任务情况|任务名称|任务简介|任务进度|
 |-------|--------|-------|-------|
@@ -28,6 +32,7 @@
 
 ### 停工
 |idea|reason|
+|-------|-------|
 |`iverilog-tool`|已经发现了相对成熟的项目[Digital-IDE](http://nc-ai.cn/)|
 ### Ciallo～(∠・ω< )⌒★
 
